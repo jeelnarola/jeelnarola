@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=jeelnarola&label=Profile%20views&color=0e75b6&style=flat" alt="jeelnarola" /> </p>
+<img src="[https://komarev.com/ghpvc/?username=jeelnarola&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)" alt="jeelnarola" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeelnarola" alt="jeelnarola" /></a> </p>
 <img src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="400px" align="right" alt="">
